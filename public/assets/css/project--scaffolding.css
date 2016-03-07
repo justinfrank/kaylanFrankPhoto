@@ -66,6 +66,11 @@ header {
   position: absolute;
   padding: 5% 2.5% 0; }
 
+.logo {
+  font-family: "Glamor-Bold", serif;
+  font-weight: 700;
+  text-transform: uppercase; }
+
 img {
   width: 100%;
   background: #1E1E1E; }
