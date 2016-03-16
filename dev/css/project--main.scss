@@ -1,38 +1,8 @@
 @import 'reset';
 @import 'variables';
 @import 'font';
+@import 'main';
+@import 'header';
+@import 'gallery';
 
 
-.wrapper {
-	position: fixed;
-	height: 100%;
-	width: 100%;
-	top: 0;
-	right: 0;
-	left: 0;
-	bottom: 0;
-}
-
-.wrapper__content {
-	margin: 5% auto auto 32.5%;
-	position: relative;
-	width: 60%;
-}
-header {
-	height: 95%;
-	width: 20%;
-	background: #FFA13A;
-	position: absolute;
-	padding: 5% 2.5% 0;
-}
-
-.logo {
-	font-family: $glamor-bold;
-	font-weight: $bold;
-	text-transform: uppercase;
-}
-
-img {
-	width: 100%;
-	background: #1E1E1E;
-}

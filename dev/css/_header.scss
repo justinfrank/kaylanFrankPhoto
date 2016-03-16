@@ -1,0 +1,22 @@
+header {
+    height: 95%;
+    width: 25%;
+    // background: #FFA13A;
+    position: absolute;
+    padding: 5% 2.5% 0;
+}
+
+.logo {
+    // font-family: $glamor-bold;
+    // font-weight: $bold;
+    // text-transform: uppercase;
+    margin: 60px auto 40px;
+    width: 90%;
+}
+
+nav a {
+    display: block;
+    color: $black;
+    text-decoration: none;
+    padding: 5px 5px 5px 0;
+}

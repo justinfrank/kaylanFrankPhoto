@@ -59,20 +59,27 @@ table {
   position: relative;
   width: 60%; }
 
+img {
+  width: 100%;
+  background: #1E1E1E;
+  min-width: 750px;
+  min-height: 450px;
+  display: block; }
+
 header {
   height: 95%;
-  width: 20%;
-  background: #FFA13A;
+  width: 25%;
   position: absolute;
   padding: 5% 2.5% 0; }
 
 .logo {
-  font-family: "Glamor-Bold", serif;
-  font-weight: 700;
-  text-transform: uppercase; }
+  margin: 60px auto 40px;
+  width: 90%; }
 
-img {
-  width: 100%;
-  background: #1E1E1E; }
+nav a {
+  display: block;
+  color: #000;
+  text-decoration: none;
+  padding: 5px 5px 5px 0; }
 
 /*# sourceMappingURL=project--scaffolding.css.map */
